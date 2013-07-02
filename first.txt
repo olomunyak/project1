@@ -1,3 +1,6 @@
 
 hi ~~ this is first...
 nice to meet you!!
+
+naro startup...
+add 12345
